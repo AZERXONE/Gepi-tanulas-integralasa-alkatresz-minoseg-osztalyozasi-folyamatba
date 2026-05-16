@@ -1,0 +1,9 @@
+Gear_ID,Date,Predicted_label,!A1_confidence,A1_confidence,Security_layer_triggered
+example_ID_0,example_Date__0,!A1,0.991,0.009,False
+example_ID_103,example_Date__103,A1,0.028,0.972,False
+example_ID_0,example_Date__0,!A1,0.991,0.009,False
+example_ID_102,example_Date__102,A1,0.027,0.973,False
+example_ID_102,example_Date__102,A1,0.027,0.973,False
+example_ID_102,example_Date__102,A1,0.027,0.973,False
+example_ID_102,example_Date__102,A1,0.027,0.973,False
+example_ID_102,example_Date__102,!A1,0.027,0.973,True
