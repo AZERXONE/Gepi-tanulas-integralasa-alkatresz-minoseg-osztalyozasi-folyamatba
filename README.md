@@ -1,2 +1,2 @@
-# G-pi-tanul-s-integr-l-sa-alkatr-sz-min-s-g-oszt-lyoz-si-folyamatba
+# Gepi-tanulas-integralasa-alkatresz-minoseg-osztalyozasi-folyamatba
 Szakdolgozatnak a minta kódjai
