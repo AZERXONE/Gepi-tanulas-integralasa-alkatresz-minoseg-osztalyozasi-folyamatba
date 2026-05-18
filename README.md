@@ -19,6 +19,16 @@ A main a fő futtató fájl mely az egész rendszert kezeli.
 
 -----------------------
 
+Futtatáshoz szükséges könyvtárak:
+Pandas: 2.3.3
+Numpy: 2.3.4
+Sklearn: 1.7.2
+Scipy: 1.16.3
+Logging: 0.5.1.2
+Joblib: 1.5.2
+
+-----------------------
+
 Fontos paraméterek a szakdolgozathoz:
 
 Rendelkezésre álló hardware:
