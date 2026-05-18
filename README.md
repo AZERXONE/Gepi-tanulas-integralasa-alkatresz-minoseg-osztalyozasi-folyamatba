@@ -30,3 +30,15 @@ ESZKÖZ: Laptop
 
 Felhasznált/optimalizált hiperparaméterek a modellekhez:
 
+param_grid = {
+    #"n_estimators": [100, 200, 300],
+    #"learning_rate": [0.01, 0.05, 0.1],
+    #"max_depth": [2, 3, 4, 5,6,7, None],
+    #'max_iter': [50,100,300],
+    #"min_samples_split": [2, 5, 10],
+    #"min_samples_leaf": [5, 15, 30],
+    #'C': [0.01,0.05,0.1,0.2,0.5,1.0,2.0,3.0],
+    #'subsample':[0.5,0.6,1.0]
+}
+
+Ezen paramétereket azon modelleknél optimalizáltuk ahol elérhető volt számunkra. Például a LOGR-nál csak a C hiperparamétert optimalizáltuk.
